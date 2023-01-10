@@ -1,0 +1,5 @@
+homepage: "https://maze.co"
+documentation: "https://help.maze.co"
+versions:
+  - sha: ___
+    changeNotes: Initial release.
