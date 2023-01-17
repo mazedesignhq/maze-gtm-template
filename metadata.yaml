@@ -1,5 +1,5 @@
 homepage: "https://maze.co"
 documentation: "https://help.maze.co"
 versions:
-  - sha: 689eef237860a9cb36e4d52e38da72cd44768589
+  - sha: dba052ecebe58cd9c879bd32fe81ce6f6d593ada
     changeNotes: Initial release.
